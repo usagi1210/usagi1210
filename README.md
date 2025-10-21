@@ -24,7 +24,7 @@
 <h3>🚀 Some Awards Received</h3>
 <p align="center">
   <a >
-    <img src="https://github.com/usagi1210/usagi1210/blob/main/MCM.jpg" alt="MCM" width="50%">
+    <img src="https://github.com/usagi1210/usagi1210/blob/main/MCM.png" alt="MCM" width="50%">
   </a>
 </p>
 
