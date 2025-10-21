@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yuan</h1>
 <p>A junior student majoring in Intelligent Science and Technology at Hangzhou Dianzi University.</p>
 
-
+![a building](https://github.com/usagi1210/usagi1210/usagi.jpg)
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
