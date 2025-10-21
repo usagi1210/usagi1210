@@ -21,7 +21,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-<h3>🚀 Some Awards Received</h3>
+<h2>🤔 Some Awards Received</h2>
 <p align="center">
   <a >
     <img src="https://github.com/usagi1210/usagi1210/blob/main/MCM.png" alt="MCM" width="50%">
